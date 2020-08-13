@@ -3,7 +3,8 @@ welcome to My kitchen
 paratha 
 pasta
 chicken 
-
+Beans
+Pizza
 
 
 
@@ -11,4 +12,8 @@ chicken
 
 
 Thanks!!
+
+Done my changes!!
+
 final copy
+
